@@ -54,10 +54,6 @@ To avoid unnecessary charges, remember to delete your resources after testing:
 * **Vertex AI:** Delete the Endpoint and Model via the notebook or Cloud Console.
 * **GKE:** Run `gcloud container clusters delete [CLUSTER_NAME]` to remove the cluster and attached GPUs.
 
-To keep the README professional while clearly stating the code's intended use and limiting liability, you should add a **Disclaimer** section at the bottom.
-
-Here is a concise, standard snippet you can append to your `README.md`:
-
 ---
 
 ### ⚠️ Disclaimer
