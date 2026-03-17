@@ -1,7 +1,3 @@
-This README combines the deployment guides for the **NVIDIA Parakeet** ASR models on Google Cloud, covering both serverless-style deployment (Vertex AI) and container-orchestrated deployment (GKE).
-
----
-
 # NVIDIA Parakeet ASR on Google Cloud
 
 This repository provides step-by-step guides and automation for deploying NVIDIA's Parakeet Automatic Speech Recognition (ASR) models on **Google Cloud Platform**. It covers two primary deployment architectures:
