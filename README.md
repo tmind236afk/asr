@@ -20,7 +20,7 @@ Ideal for production-grade streaming applications requiring high throughput and 
 * **Model:** Parakeet 1.1B CTC (via NVIDIA Riva NIM).
 * **Features:** gRPC streaming, WebSocket Realtime API, built-in VAD (Voice Activity Detection).
 * **Compute:** NVIDIA L4 GPU (G2 Standard instances).
-* **Guide:** `CLOUDSHELL_DEPLOY.md` (Cloud Shell commands).
+* **Guide:** `RIVA_DEPLOY.md` (Cloud Shell commands).
 
 ---
 
